@@ -82,9 +82,13 @@ Pour aller plus loin, GoPhish (outil open-source de simulation de phishing) a é
 | Catégorie         | Exigence |
 
 | ⚡ Performance    | Analyse d'un lien en < 2 secondes |
+
 | 🔒 Sécurité       | Aucune collecte de données personnelles |
+
 | 🌐 Réseau         | Trafic filtré et segmenté via PfSense |
+
 | 🖱️ Utilisabilité  | Interface responsive et intuitive |
+
 | 🔧 Maintenabilité | Code modulaire et documenté |
 
 ---
