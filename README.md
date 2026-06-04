@@ -93,7 +93,7 @@ Pour aller plus loin, GoPhish (outil open-source de simulation de phishing) a é
 
 | Membre         | Rôle |
 
-| Boubou Samassa | Infrastructure réseau (PfSense, DMZ, LAN admin) · Extension navigateur · Serveur de simulation · Démonstration GoPhish |
+| Boubou Samassa | Infrastructure réseau (PfSense, DMZ, LAN admin) · Extension navigateur · Serveur de simulation · Démonstration GoPhish |   
 | Franck-Arsène  | Plateforme web (quiz, tips, UI/UX) |
 
 ---
